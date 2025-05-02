@@ -1,0 +1,151 @@
+/* Reset and Box Sizing */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* General Styling */
+body {
+    background: linear-gradient(135deg, #74ebd5 0%, #acb6e5 100%);
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* Headings */
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    text-align: center;
+}
+
+/* Form Container */
+.form-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px;
+}
+
+/* Tips Container */
+.tips-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin: 30px 20px 0;
+    text-align: center;
+}
+
+/* Tips List */
+.tips-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Individual Tip Item */
+.tip-item {
+    font-size: 1rem;
+    color: #333;
+    margin: 10px 0;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 1s ease forwards;
+}
+
+.tip-item:nth-child(1) { animation-delay: 0.2s; }
+.tip-item:nth-child(2) { animation-delay: 0.4s; }
+.tip-item:nth-child(3) { animation-delay: 0.6s; }
+.tip-item:nth-child(4) { animation-delay: 0.8s; }
+.tip-item:nth-child(5) { animation-delay: 1s; }
+.tip-item:nth-child(6) { animation-delay: 1.2s; }
+.tip-item:nth-child(7) { animation-delay: 1.4s; }
+
+/* Animation Keyframes */
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Form Styling */
+form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Form Elements */
+input,
+select,
+button {
+    width: 100%;
+    padding: 12px 15px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 14px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Input Focus State */
+input:focus,
+select:focus {
+    border-color: #2575fc;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(37, 117, 252, 0.3);
+}
+
+/* Button Styling */
+button {
+    background-color: #6a11cb;
+    background-image: linear-gradient(315deg, #6a11cb 0%, #2575fc 74%);
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background-image: linear-gradient(315deg, #2575fc 0%, #6a11cb 74%);
+}
+
+button:focus {
+    outline: 2px solid #ffffff;
+    outline-offset: 2px;
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    form,
+    .tips-container {
+        padding: 20px;
+    }
+
+    .tip-item {
+        font-size: 0.9rem;
+    }
+}

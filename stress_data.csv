@@ -1,0 +1,289 @@
+Name,Mobile,Gender,Age,Occupation,Sleep_Hours,Exercise_Hours,Work_Pressure,Phone_Usage,Mind_Swing,Meal_Timing,StressLevel
+Ananya Patel,9876543114,Female,22,Student,6,1,6,5,Sometimes,Yes,Medium
+Vikram Soni,9876543115,Male,23,Student,7,2,4,3,No,Yes,Low
+Nisha Desai,9876543116,Female,19,Student,8,1,3,2,No,Yes,Low
+Sandeep Yadav,9876543117,Male,21,Student,7,2,5,3,No,Yes,Low
+Priya Mehta,9876543118,Female,20,Student,7,1,6,4,Sometimes,Yes,Medium
+Karthik Reddy,9876543119,Male,24,Student,5,1,7,6,Sometimes,No,High
+Riya Agarwal,9876543120,Female,22,Student,6,2,4,4,No,Yes,Low
+Aakash Sharma,9876543121,Male,21,Student,6,1,6,4,Sometimes,Yes,Medium
+Swati Verma,9876543122,Female,23,Student,5,0,8,7,Yes,No,High
+Raghav Choudhury,9876543123,Male,22,Student,5,0,9,7,Yes,No,High
+Anil Kumar,9876543100,Male,20,Student,8,1,4,3,No,Yes,Low
+Sneha Singh,9876543101,Female,21,Student,7,2,5,2,No,Yes,Low
+Rohit Verma,9876543102,Male,22,Student,8,1,3,3,No,Yes,Low
+Aditi Sharma,9876543103,Female,19,Student,9,2,4,2,No,Yes,Low
+Vikram Soni,9876543115,Male,23,Student,7,2,4,3,No,Yes,Low
+Meena Pillai,9876543105,Female,22,Student,6,1,6,4,Sometimes,Yes,Medium
+Kiran Kumar,9876543106,Male,21,Student,7,0,6,4,Sometimes,No,Medium
+Pooja Nair,9876543107,Female,20,Student,6,0,7,5,Sometimes,Yes,Medium
+Aman Joshi,9876543108,Male,23,Student,7,0,5,5,Sometimes,No,Medium
+Diya Sen,9876543109,Female,24,Student,6,1,6,4,Sometimes,Yes,Medium
+Neha Yadav,9876543129,Female,21,Student,6,1,6,4,Sometimes,Yes,Medium
+Raghav Kapoor,9876543130/,Male,22,Student,6,0,7,5,Sometimes,No,Medium
+Manish Chauhan,9876543110,Male,22,Student,5,0,9,7,Yes,No,High
+Sara D'Souza,9876543111,Female,23,Student,5,0,8,6,Yes,No,High
+Ravi Shankar,9876543112,Male,24,Student,4,0,9,7,Yes,No,High
+Simran Kaur,9876543113,Female,21,Student,6,0,8,8,Yes,No,High
+Anjali Joshi,9876543134,Female,22,Student,5,0,9,7,Yes,No,High
+Sandeep Gupta,9876543135,Male,24,Student,4,0,8,7,Yes,No,High
+Tarun Mehta,9876543136,Male,23,Student,4,0,9,8,Yes,No,High
+Divya Bhatt,9876543137,Female,22,Student,5,0,8,7,Yes,No,High
+Nikhil Rao,9876543138,Male,24,Student,4,0,10,9,Yes,No,High
+Priya Menon,9876543139,Female,23,Student,5,0,9,8,Yes,No,High
+Harsh Vardhan,9876543140,Male,22,Student,4,0,9,8,Yes,No,High
+Ritika Jain,9876543141,Female,24,Student,5,0,8,7,Yes,No,High
+Vivek Anand,9876543142,Male,23,Student,4,0,10,9,Yes,No,High
+Sonal Kapoor,9876543143,Female,21,Student,5,0,9,8,Yes,No,High
+Akash Malhotra,9876543144,Male,22,Student,6,1,6,4,Sometimes,Yes,Medium
+Riya Deshmukh,9876543145,Female,21,Student,6,1,7,5,Sometimes,No,Medium
+Mohit Sinha,9876543146,Male,23,Student,7,1,6,4,Sometimes,Yes,Medium
+Tanya Verma,9876543147,Female,20,Student,6,0,7,5,Sometimes,Yes,Medium
+Kunal Bhatia,9876543148,Male,22,Student,6,1,6,5,Sometimes,No,Medium
+Shruti Nair,9876543149,Female,24,Student,6,0,7,4,Sometimes,Yes,Medium
+Rahul Desai,9876543150,Male,21,Student,7,1,6,5,Sometimes,Yes,Medium
+Nisha Reddy,9876543151,Female,22,Student,6,1,7,5,Sometimes,No,Medium
+Yash Patel,9876543152,Male,20,Student,8,2,3,2,No,Yes,Low
+Neha Rathi,9876543153,Female,21,Student,8,1,4,3,No,Yes,Low
+Deepak Chawla,9876543154,Male,22,Student,9,2,3,2,No,Yes,Low
+Kavya Suresh,9876543155,Female,19,Student,8,1,4,3,No,Yes,Low
+Rohan Kapoor,9876543156,Male,21,Student,7,2,4,3,No,Yes,Low
+Ananya Pillai,9876543157,Female,22,Student,8,2,3,2,No,Yes,Low
+Siddharth Mehra,9876543158,Male,20,Student,9,1,2,2,No,Yes,Low
+Pallavi Desai,9876543159,Female,23,Student,8,2,3,3,No,Yes,Low
+Arvind Patel,9876543200,Male,26,Engineer,8,2,3,2,No,Yes,Low
+Megha Iyer,9876543201,Female,25,Engineer,7,2,3,3,No,Yes,Low
+Rahul Menon,9876543202,Male,28,Engineer,8,2,2,2,No,Yes,Low
+Divya Kapoor,9876543203,Female,27,Engineer,9,1,3,3,No,Yes,Low
+Rohan Bhatia,9876543204,Male,24,Engineer,8,1,3,2,No,Yes,Low
+Sakshi Pandey,9876543205,Female,26,Engineer,8,2,4,2,No,Yes,Low
+Nikhil Joshi,9876543206,Male,27,Engineer,9,1,2,2,No,Yes,Low
+Ankita Raina,9876543207,Female,28,Engineer,7,2,4,3,No,Yes,Low
+Yash Thakur,9876543208,Male,25,Engineer,8,2,3,2,No,Yes,Low
+Ishita Banerjee,9876543209,Female,26,Engineer,7,1,3,2,No,Yes,Low
+Aman Gupta,9876543210,Male,29,Engineer,8,2,2,2,No,Yes,Low
+Tanya Sinha,9876543211,Female,30,Engineer,9,2,3,2,No,Yes,Low
+Vivek Khanna,9876543212,Male,27,Engineer,8,1,2,2,No,Yes,Low
+Kritika Jain,9876543213,Female,25,Engineer,7,2,3,2,No,Yes,Low
+Devansh Mishra,9876543214,Male,28,Engineer,9,2,3,2,No,Yes,Low
+Ritika Kapoor,9876543215,Female,27,Engineer,8,1,4,3,No,Yes,Low
+Arjun Das,9876543216,Male,26,Engineer,8,2,2,2,No,Yes,Low
+Riya Sharma,9876543217,Female,29,Engineer,9,1,3,2,No,Yes,Low
+Manav Bhatt,9876543218,Male,25,Engineer,7,2,3,3,No,Yes,Low
+Sneha Nair,9876543219,Female,28,Engineer,8,2,3,2,No,Yes,Low
+Ravi Sharma,9876543220,Male,28,Engineer,6,1,6,4,Sometimes,Yes,Medium
+Neha Kapoor,9876543221,Female,27,Engineer,6,0,7,5,Sometimes,No,Medium
+Varun Mehta,9876543222,Male,29,Engineer,7,0,5,5,Sometimes,Yes,Medium
+Sanya Arora,9876543223,Female,26,Engineer,6,1,6,4,Sometimes,Yes,Medium
+Aditya Prakash,9876543224,Male,30,Engineer,7,1,5,5,Sometimes,No,Medium
+Nisha Rao,9876543225,Female,29,Engineer,6,0,6,4,Sometimes,Yes,Medium
+Arnav Sethi,9876543226,Male,28,Engineer,7,0,6,5,Sometimes,No,Medium
+Shreya Deshmukh,9876543227,Female,27,Engineer,6,1,6,4,Sometimes,Yes,Medium
+Siddharth Jain,9876543228,Male,29,Engineer,6,0,7,5,Sometimes,No,Medium
+Anushka Menon,9876543229,Female,28,Engineer,7,1,5,4,Sometimes,Yes,Medium
+Yuvraj Bhatt,9876543230,Male,30,Engineer,6,1,6,4,Sometimes,Yes,Medium
+Priya Vyas,9876543231,Female,27,Engineer,7,0,5,5,Sometimes,No,Medium
+Harsh Vardhan,9876543232,Male,28,Engineer,6,1,6,4,Sometimes,Yes,Medium
+Sakshi Chawla,9876543233,Female,29,Engineer,7,1,5,5,Sometimes,Yes,Medium
+Ritesh Verma,9876543234,Male,26,Engineer,6,0,6,4,Sometimes,No,Medium
+Komal Dhawan,9876543235,Female,28,Engineer,7,1,5,5,Sometimes,Yes,Medium
+Ashish Rana,9876543236,Male,29,Engineer,6,0,6,5,Sometimes,No,Medium
+Sonal Mehta,9876543237,Female,27,Engineer,7,1,5,4,Sometimes,Yes,Medium
+Dhruv Saxena,9876543238,Male,30,Engineer,6,0,7,5,Sometimes,No,Medium
+Anjali Rao,9876543239,Female,29,Engineer,7,1,6,4,Sometimes,Yes,Medium
+Rajeev Malhotra,9876543240,Male,32,Engineer,4,0,9,8,Yes,No,High
+Tanvi Desai,9876543241,Female,30,Engineer,5,0,8,7,Yes,No,High
+Abhishek Rao,9876543242,Male,31,Engineer,5,0,9,7,Yes,No,High
+Kritika Sinha,9876543243,Female,29,Engineer,4,0,9,8,Yes,No,High
+Mohit Bansal,9876543244,Male,33,Engineer,4,0,10,9,Yes,No,High
+Riya Joshi,9876543245,Female,30,Engineer,5,0,8,7,Yes,No,High
+Ankit Choudhary,9876543246,Male,32,Engineer,4,0,9,8,Yes,No,High
+Sneha Banerjee,9876543247,Female,31,Engineer,5,0,8,7,Yes,No,High
+Kunal Ghosh,9876543248,Male,30,Engineer,4,0,9,8,Yes,No,High
+Ishita Mehra,9876543249,Female,32,Engineer,5,0,8,7,Yes,No,High
+Vivek Trivedi,9876543250,Male,31,Engineer,4,0,9,9,Yes,No,High
+Mansi Aggarwal,9876543251,Female,30,Engineer,5,0,9,8,Yes,No,High
+Piyush Kohli,9876543252,Male,32,Engineer,4,0,10,9,Yes,No,High
+Divya Kapoor,9876543253,Female,31,Engineer,5,0,9,8,Yes,No,High
+Saurabh Kulkarni,9876543254,Male,33,Engineer,4,0,10,9,Yes,No,High
+Shruti Bhagat,9876543255,Female,30,Engineer,5,0,8,7,Yes,No,High
+Deepak Saxena,9876543256,Male,32,Engineer,4,0,9,9,Yes,No,High
+Ankita Patel,9876543257,Female,31,Engineer,5,0,9,8,Yes,No,High
+Manav Goel,9876543258,Male,30,Engineer,4,0,10,9,Yes,No,High
+Priyanka Bhose,9876543259,Female,32,Engineer,5,0,8,7,Yes,No,High
+Aarav Khanna,9876543300,Male,29,Engineer,8,2,3,2,No,Yes,Low
+Isha Roy,9876543301,Female,28,Engineer,7,1,5,3,No,Yes,Low
+Rudra Menon,9876543302,Male,30,Engineer,6,1,6,4,Sometimes,Yes,Medium
+Sanya Kapoor,9876543303,Female,27,Engineer,6,0,6,4,Sometimes,No,Medium
+Karthik Reddy,9876543304,Male,31,Engineer,5,0,9,7,Yes,No,High
+Niharika Jain,9876543305,Female,29,Engineer,8,2,2,2,No,Yes,Low
+Devansh Mehta,9876543306,Male,28,Engineer,7,1,5,3,No,Yes,Low
+Tanya Mishra,9876543307,Female,30,Engineer,6,1,6,4,Sometimes,Yes,Medium
+Arnav Sharma,9876543308,Male,31,Engineer,5,0,8,7,Yes,No,High
+Megha Iyer,9876543309,Female,27,Engineer,6,0,7,5,Sometimes,No,Medium
+Siddharth Pillai,9876543310,Male,30,Engineer,8,2,3,2,No,Yes,Low
+Ananya Bhatia,9876543311,Female,29,Engineer,7,1,4,3,No,Yes,Low
+Vedant Das,9876543312,Male,32,Engineer,6,0,7,5,Sometimes,No,Medium
+Pallavi Saxena,9876543313,Female,30,Engineer,5,0,9,8,Yes,No,High
+Rahul Mittal,9876543314,Male,28,Engineer,4,0,9,7,Yes,No,High
+Shraddha Yadav,9876543315,Female,27,Engineer,7,1,5,3,No,Yes,Low
+Jayant Verma,9876543316,Male,31,Engineer,5,0,8,7,Sometimes,No,Medium
+Ira Sen,9876543317,Female,30,Engineer,4,0,9,8,Yes,No,High
+Nikhil Sood,9876543318,Male,29,Engineer,6,1,6,4,Sometimes,Yes,Medium
+Kavya Shah,9876543319,Female,28,Engineer,7,2,3,2,No,Yes,Low
+Dr. Aarav Sharma,9876543400,Male,34,Doctor,8,2,3,2,No,Yes,Low
+Dr. Nisha Kapoor,9876543401,Female,32,Doctor,7,1,4,3,No,Yes,Low
+Dr. Karan Mehta,9876543402,Male,35,Doctor,8,2,3,2,No,Yes,Low
+Dr. Priya Nair,9876543403,Female,33,Doctor,7,1,4,3,No,Yes,Low
+Dr. Raghav Singh,9876543404,Male,36,Doctor,9,2,2,2,No,Yes,Low
+Dr. Ananya Sen,9876543405,Female,31,Doctor,8,2,3,3,No,Yes,Low
+Dr. Ishaan Verma,9876543406,Male,34,Doctor,7,1,4,2,No,Yes,Low
+Dr. Meera Iyer,9876543407,Female,32,Doctor,8,2,3,3,No,Yes,Low
+Dr. Siddharth Reddy,9876543408,Male,35,Doctor,7,2,3,3,No,Yes,Low
+Dr. Tara Desai,9876543409,Female,33,Doctor,8,1,4,2,No,Yes,Low
+Dr. Yash Chauhan,9876543410,Male,36,Doctor,8,2,2,2,No,Yes,Low
+Dr. Kavya Pillai,9876543411,Female,31,Doctor,7,2,3,3,No,Yes,Low
+Dr. Aman Tripathi,9876543412,Male,35,Doctor,9,2,2,2,No,Yes,Low
+Dr. Sneha Yadav,9876543413,Female,32,Doctor,7,1,4,3,No,Yes,Low
+Dr. Manav Das,9876543414,Male,34,Doctor,8,2,3,2,No,Yes,Low
+Dr. Riya Sood,9876543415,Female,31,Doctor,8,2,3,2,No,Yes,Low
+Dr. Varun Malhotra,9876543416,Male,36,Doctor,7,1,4,3,No,Yes,Low
+Dr. Shreya Saxena,9876543417,Female,33,Doctor,9,2,2,2,No,Yes,Low
+Dr. Dhruv Bansal,9876543418,Male,34,Doctor,8,1,3,3,No,Yes,Low
+Dr. Anushka Dey,9876543419,Female,32,Doctor,7,1,4,3,No,Yes,Low
+Dr. Vikram Gupta,9876543500,Male,38,Doctor,6,1,5,4,Sometimes,Yes,Medium
+Dr. Aishwarya Bansal,9876543501,Female,34,Doctor,6,1,6,5,Sometimes,Yes,Medium
+Dr. Rahul Choudhury,9876543502,Male,37,Doctor,7,1,6,5,Sometimes,Yes,Medium
+Dr. Natasha Sharma,9876543503,Female,33,Doctor,6,0,7,6,Sometimes,No,Medium
+Dr. Arvind Joshi,9876543504,Male,39,Doctor,7,2,5,4,Sometimes,Yes,Medium
+Dr. Shalini Kaur,9876543505,Female,32,Doctor,6,1,6,5,Sometimes,Yes,Medium
+Dr. Pranav Mehra,9876543506,Male,35,Doctor,6,1,7,6,Sometimes,Yes,Medium
+Dr. Simran Kapoor,9876543507,Female,36,Doctor,6,0,6,5,Sometimes,Yes,Medium
+Dr. Sameer Reddy,9876543508,Male,40,Doctor,7,1,5,4,Sometimes,Yes,Medium
+Dr. Preeti Iyer,9876543509,Female,34,Doctor,6,0,7,6,Sometimes,No,Medium
+Dr. Akash Singh,9876543510,Male,38,Doctor,6,1,6,5,Sometimes,Yes,Medium
+Dr. Meera DSouza,9876543511,Female,33,Doctor,6,1,5,4,Sometimes,Yes,Medium
+Dr. Rajeev Kumar,9876543512,Male,35,Doctor,6,2,6,5,Sometimes,Yes,Medium
+Dr. Neha Chatterjee,9876543513,Female,30,Doctor,7,1,5,4,Sometimes,Yes,Medium
+Dr. Vijay Verma,9876543514,Male,36,Doctor,6,0,7,6,Sometimes,Yes,Medium
+Dr. Shreya Patel,9876543515,Female,34,Doctor,7,1,6,5,Sometimes,Yes,Medium
+Dr. Arun Mehra,9876543516,Male,37,Doctor,6,0,7,5,Sometimes,No,Medium
+Dr. Gita Sood,9876543517,Female,32,Doctor,6,1,6,5,Sometimes,Yes,Medium
+Dr. Samir Kapoor,9876543518,Male,39,Doctor,6,0,6,5,Sometimes,Yes,Medium
+Dr. Komal Desai,9876543519,Female,34,Doctor,7,2,5,4,Sometimes,Yes,Medium
+Dr. Anil Kapoor,9876543520,Male,42,Doctor,5,0,9,7,Yes,No,High
+Dr. Sunita Reddy,9876543521,Female,40,Doctor,4,0,9,7,Yes,No,High
+Dr. Arvind Mehta,9876543522,Male,45,Doctor,4,0,10,8,Yes,No,High
+Dr. Kavita Desai,9876543523,Female,38,Doctor,5,0,8,7,Yes,No,High
+Dr. Sanjay Verma,9876543524,Male,43,Doctor,5,1,9,8,Yes,No,High
+Dr. Neelam Gupta,9876543525,Female,41,Doctor,5,0,8,7,Yes,No,High
+Dr. Amitabh Nair,9876543526,Male,44,Doctor,4,1,9,8,Yes,No,High
+Dr. Sushmita Roy,9876543527,Female,36,Doctor,5,0,9,8,Yes,No,High
+Dr. Raghav Sharma,9876543528,Male,46,Doctor,4,0,10,7,Yes,No,High
+Dr. Priya Iyer,9876543529,Female,40,Doctor,5,0,8,7,Yes,No,High
+Dr. Harish Kumar,9876543530,Male,42,Doctor,4,0,9,8,Yes,No,High
+Dr. Meena Sood,9876543531,Female,37,Doctor,5,0,8,7,Yes,No,High
+Dr. Ravi Prasad,9876543532,Male,44,Doctor,5,0,9,7,Yes,No,High
+Dr. Anita Verma,9876543533,Female,39,Doctor,4,0,10,8,Yes,No,High
+Dr. Sanjeev Reddy,9876543534,Male,41,Doctor,5,1,9,7,Yes,No,High
+Dr. Shalini Singh,9876543535,Female,38,Doctor,4,0,9,8,Yes,No,High
+Dr. Varun Gupta,9876543536,Male,45,Doctor,5,1,10,7,Yes,No,High
+Dr. Nisha DSouza,9876543537,Female,40,Doctor,5,0,8,7,Yes,No,High
+Dr. Sunil Kumar,9876543538,Male,43,Doctor,4,0,9,8,Yes,No,High
+Dr. Preeti Chauhan,9876543539,Female,37,Doctor,4,0,9,7,Yes,No,High
+Dr. Rajeev Kaur,9876543540,Male,46,Doctor,5,0,10,8,Yes,No,High
+Dr. Aditi Rao,9876543600,Female,34,Doctor,8,2,3,2,No,Yes,Low
+Dr. Arjun Kapoor,9876543601,Male,36,Doctor,7,2,4,2,No,Yes,Low
+Dr. Neha Sinha,9876543602,Female,32,Doctor,8,1,3,1,No,Yes,Low
+Dr. Raj Malhotra,9876543603,Male,35,Doctor,7,2,4,2,No,Yes,Low
+Dr. Priya Reddy,9876543604,Female,33,Doctor,8,2,3,1,No,Yes,Low
+Dr. Kiran Joshi,9876543605,Male,39,Doctor,6,1,5,4,Sometimes,Yes,Medium
+Dr. Sneha Kapoor,9876543606,Female,38,Doctor,6,0,6,4,Sometimes,No,Medium
+Dr. Ramesh Bhat,9876543607,Male,37,Doctor,7,1,5,5,Sometimes,Yes,Medium
+Dr. Anjali Mehra,9876543608,Female,36,Doctor,6,0,7,5,Sometimes,No,Medium
+Dr. Mohan Lal,9876543609,Male,40,Doctor,7,1,5,4,Sometimes,Yes,Medium
+Dr. Sunil Verma,9876543610,Male,43,Doctor,5,0,9,7,Yes,No,High
+Dr. Swati Shah,9876543611,Female,41,Doctor,5,0,8,7,Yes,No,High
+Dr. Vivek Chauhan,9876543612,Male,45,Doctor,4,0,9,8,Yes,No,High
+Dr. Pooja Iyer,9876543613,Female,44,Doctor,5,0,9,7,Yes,No,High
+Dr. Ravi Kumar,9876543614,Male,42,Doctor,4,0,10,8,Yes,No,High
+Ramu Das,9876543800,Male,30,Labour,8,2,2,1,No,Yes,Low
+Sita Devi,9876543801,Female,28,Labour,9,2,3,2,No,Yes,Low
+Manoj Yadav,9876543802,Male,31,Labour,8,1,3,2,No,Yes,Low
+Pooja Kumari,9876543803,Female,29,Labour,8,2,2,1,No,Yes,Low
+Vikram Singh,9876543804,Male,32,Labour,7,1,2,2,No,Yes,Low
+Lakshmi Rao,9876543805,Female,34,Labour,9,2,3,1,No,Yes,Low
+Hari Om,9876543806,Male,35,Labour,8,2,3,1,No,Yes,Low
+Radha Sharma,9876543807,Female,30,Labour,7,2,2,1,No,Yes,Low
+Sanjay Verma,9876543808,Male,33,Labour,9,1,3,2,No,Yes,Low
+Maya Kumari,9876543809,Female,29,Labour,8,2,2,1,No,Yes,Low
+Ravi Prasad,9876543810,Male,32,Labour,7,2,3,2,No,Yes,Low
+Kavita Sen,9876543811,Female,28,Labour,9,1,2,1,No,Yes,Low
+Bharat Singh,9876543812,Male,34,Labour,8,2,2,2,No,Yes,Low
+Neha Dubey,9876543813,Female,31,Labour,7,2,2,1,No,Yes,Low
+Omprakash Yadav,9876543814,Male,35,Labour,9,1,3,2,No,Yes,Low
+Priya Chauhan,9876543815,Female,30,Labour,8,2,2,1,No,Yes,Low
+Ajay Rathi,9876543816,Male,32,Labour,7,1,2,2,No,Yes,Low
+Rekha Sharma,9876543817,Female,28,Labour,8,2,3,1,No,Yes,Low
+Naresh Gupta,9876543818,Male,33,Labour,9,2,3,2,No,Yes,Low
+Sunita Devi,9876543819,Female,29,Labour,8,2,2,1,No,Yes,Low
+Suraj Mehta,9876543820,Male,32,Labour,6,1,5,4,Sometimes,No,Medium
+Geeta Kumari,9876543821,Female,30,Labour,6,1,5,3,Sometimes,Yes,Medium
+Deepak Sahu,9876543822,Male,33,Labour,7,0,6,4,Sometimes,No,Medium
+Radha Kumari,9876543823,Female,31,Labour,6,0,6,5,Sometimes,Yes,Medium
+Ashok Rana,9876543824,Male,35,Labour,6,1,5,4,Sometimes,No,Medium
+Sunita Rao,9876543825,Female,29,Labour,7,0,5,4,Sometimes,Yes,Medium
+Rajesh Yadav,9876543826,Male,34,Labour,6,0,6,5,Sometimes,No,Medium
+Meera Devi,9876543827,Female,30,Labour,6,1,6,4,Sometimes,No,Medium
+Vinod Gupta,9876543828,Male,33,Labour,7,0,5,3,Sometimes,Yes,Medium
+Nisha Kumari,9876543829,Female,28,Labour,6,1,6,5,Sometimes,No,Medium
+Satish Kumar,9876543830,Male,32,Labour,7,0,5,4,Sometimes,Yes,Medium
+Reena Das,9876543831,Female,29,Labour,6,1,5,3,Sometimes,No,Medium
+Dinesh Jha,9876543832,Male,34,Labour,6,0,6,5,Sometimes,No,Medium
+Lata Sen,9876543833,Female,31,Labour,7,1,6,4,Sometimes,Yes,Medium
+Mahesh Rao,9876543834,Male,30,Labour,6,0,5,4,Sometimes,No,Medium
+Anita Kumari,9876543835,Female,28,Labour,7,1,5,3,Sometimes,Yes,Medium
+Suresh Chauhan,9876543836,Male,35,Labour,6,1,6,5,Sometimes,No,Medium
+Jyoti Rani,9876543837,Female,30,Labour,6,0,5,4,Sometimes,No,Medium
+Prakash Yadav,9876543838,Male,34,Labour,7,0,6,5,Sometimes,Yes,Medium
+Preeti Sharma,9876543839,Female,29,Labour,6,1,6,4,Sometimes,No,Medium
+Ramesh Yadav,9876543840,Male,36,Labour,5,0,9,7,Yes,No,High
+Sita Devi,9876543841,Female,34,Labour,4,0,8,6,Yes,No,High
+Bhola Singh,9876543842,Male,37,Labour,5,0,9,8,Yes,No,High
+Ganga Devi,9876543843,Female,33,Labour,5,0,8,7,Yes,No,High
+Mukesh Kumar,9876543844,Male,35,Labour,4,0,9,8,Yes,No,High
+Rina Devi,9876543845,Female,32,Labour,5,0,9,7,Yes,No,High
+Vikram Chauhan,9876543846,Male,38,Labour,4,0,8,6,Yes,No,High
+Kavita Yadav,9876543847,Female,35,Labour,5,0,9,7,Yes,No,High
+Shankar Mehta,9876543848,Male,36,Labour,4,0,9,8,Yes,No,High
+Pushpa Kumari,9876543849,Female,34,Labour,5,0,8,6,Yes,No,High
+Raj Kumar,9876543850,Male,37,Labour,4,0,9,7,Yes,No,High
+Kamla Devi,9876543851,Female,32,Labour,5,0,8,8,Yes,No,High
+Harish Rao,9876543852,Male,36,Labour,4,0,9,6,Yes,No,High
+Sunita Sharma,9876543853,Female,33,Labour,5,0,8,7,Yes,No,High
+Anil Meena,9876543854,Male,38,Labour,5,0,9,8,Yes,No,High
+Laxmi Devi,9876543855,Female,34,Labour,4,0,8,6,Yes,No,High
+Prakash Thakur,9876543856,Male,35,Labour,5,0,9,7,Yes,No,High
+Neelam Kumari,9876543857,Female,32,Labour,5,0,8,7,Yes,No,High
+Ajay Yadav,9876543858,Male,37,Labour,4,0,9,8,Yes,No,High
+Shobha Devi,9876543859,Female,33,Labour,5,0,9,7,Yes,No,High
+Ravi Patel,9876543860,Male,34,Labour,7,1,4,2,No,Yes,Low
+Sunita Yadav,9876543861,Female,32,Labour,6,1,5,3,Sometimes,Yes,Medium
+Ramesh Chauhan,9876543862,Male,35,Labour,5,0,8,7,Yes,No,High
+Sita Kumari,9876543863,Female,31,Labour,7,2,3,2,No,Yes,Low
+Manoj Yadav,9876543864,Male,36,Labour,6,0,6,4,Sometimes,Yes,Medium
+Pooja Devi,9876543865,Female,33,Labour,5,0,9,7,Yes,No,High
+Mahesh Sharma,9876543866,Male,34,Labour,8,1,4,3,No,Yes,Low
+Neha Kumari,9876543867,Female,32,Labour,6,1,5,4,Sometimes,Yes,Medium
+Mukesh Chauhan,9876543868,Male,37,Labour,4,0,9,8,Yes,No,High
+Anita Devi,9876543869,Female,31,Labour,7,2,3,2,No,Yes,Low
+Suresh Kumar,9876543870,Male,35,Labour,6,1,5,4,Sometimes,No,Medium
+Kavita Sharma,9876543871,Female,33,Labour,5,0,8,7,Yes,No,High
+Deepak Yadav,9876543872,Male,36,Labour,7,1,4,3,No,Yes,Low
+Lata Devi,9876543873,Female,32,Labour,6,0,6,5,Sometimes,No,Medium
+Raju Patel,9876543874,Male,37,Labour,5,0,9,8,Yes,No,High
+Asha Kumari,9876543875,Female,34,Labour,8,2,3,2,No,Yes,Low
+Narayan Rao,9876543876,Male,35,Labour,6,1,5,4,Sometimes,Yes,Medium
+Pinky Devi,9876543877,Female,32,Labour,5,0,8,6,Yes,No,High
+Ajit Kumar,9876543878,Male,36,Labour,7,2,4,3,No,Yes,Low
+Sumitra Devi,9876543879,Female,33,Labour,6,0,5,4,Sometimes,Yes,Medium

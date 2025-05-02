@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stress Prediction App</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h2>Stress Prediction Form</h2>
+        <form action="/predict" method="post">
+            <div class="form-group">
+                <input type="text" name="Name" placeholder="Enter your Name" required>
+            </div>
+            <div class="form-group">
+                <input type="text" name="Mobile" placeholder="Enter your Mobile Number" required>
+            </div>
+            <div class="form-group">
+                <input type="email" name="Email" placeholder="Enter your Email" required>
+            </div>
+            <div class="form-group">
+                <input type="number" name="Age" placeholder="Enter your Age" required>
+            </div>
+
+            <div class="form-group">
+                <select name="Gender" required>
+                    <option value="" disabled selected>Select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <select name="Occupation" required>
+                    <option value="" disabled selected>Select Occupation</option>
+                    <option value="Student">Student</option>
+                    <option value="Engineer">Engineer</option>
+                    <option value="Doctor">Doctor</option>
+                    <option value="Labour">Labour</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <select name="SleepHours" required>
+                    <option value="" disabled selected>Sleep Hours (per day)</option>
+                    {% for i in range(3, 11) %}
+                        <option value="{{ i }}">{{ i }} hours</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <select name="ExerciseHours" required>
+                    <option value="" disabled selected>Exercise Hours (per week)</option>
+                    {% for i in range(0, 4) %}
+                        <option value="{{ i }}">{{ i }} hours</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <select name="PhoneUsageHours" required>
+                    <option value="" disabled selected>Phone Usage (per day)</option>
+                    {% for i in range(1, 12) %}
+                        <option value="{{ i }}">{{ i }} hours</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <select name="MoodSwings" required>
+                    <option value="" disabled selected>Select Mood Swing</option>
+                    <option value="No">No</option>
+                    <option value="Sometimes">Sometimes</option>
+                    <option value="Yes">Yes</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <select name="MealsOnTime" required>
+                    <option value="" disabled selected>Meals on Time?</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <select name="WorkPressure" required>
+                    <option value="" disabled selected>Work Pressure</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                </select>
+            </div>
+
+            <button type="submit">Predict Stress</button>
+        </form>
+    </div>
+
+    {% if stress_level %}
+    <div class="tips-container">
+        <h3>Tips to Manage Stress:</h3>
+        {% if stress_level == 'Low' %}
+            <ul class="tips-list">
+                <li class="tip-item">1. Stay Calm and Relax</li>
+                <li class="tip-item">2. Regular Physical Activity</li>
+                <li class="tip-item">3. Maintain a Balanced Diet</li>
+                <li class="tip-item">4. Maintain a Healthy Sleep Routine</li>
+                <li class="tip-item">5. Engage in Hobbies</li>
+                <li class="tip-item">6. Practice Meditation</li>
+                <li class="tip-item">7. Take Breaks During Work</li>
+            </ul>
+        {% elif stress_level == 'Medium' %}
+            <ul class="tips-list">
+                <li class="tip-item">1. Exercise Regularly</li>
+                <li class="tip-item">2. Practice Mindfulness & Meditation</li>
+                <li class="tip-item">3. Get Enough Sleep</li>
+                <li class="tip-item">4. Stay Connected with Loved Ones</li>
+                <li class="tip-item">5. Engage in Hobbies</li>
+                <li class="tip-item">6. Practice Deep Breathing</li>
+                <li class="tip-item">7. Eat a Healthy Diet</li>
+            </ul>
+        {% elif stress_level == 'High' %}
+            <ul class="tips-list">
+                <li class="tip-item">1. Seek Professional Help (Therapist/Counseling)</li>
+                <li class="tip-item">2. Practice Yoga or Relaxation Techniques</li>
+                <li class="tip-item">3. Take Time Off from Work</li>
+                <li class="tip-item">4. Focus on Deep Breathing</li>
+                <li class="tip-item">5. Set Boundaries to Reduce Work Overload</li>
+                <li class="tip-item">6. Prioritize Self-Care and Rest</li>
+                <li class="tip-item">7. Identify and Avoid Stress Triggers</li>
+            </ul>
+        {% endif %}
+    </div>
+    {% endif %}
+</body>
+</html>
